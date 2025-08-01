@@ -43,6 +43,8 @@
 ###
 ![Pac-Man](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
+![GitHub Snake](https://raw.githubusercontent.com/wahyuprtmaaa/snk/output/dist/github-contribution-grid-snake.svg)
+
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wahyuprtmaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
