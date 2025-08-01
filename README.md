@@ -43,10 +43,6 @@
 ###
 ![Pac-Man](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-## 🐍 My Contributions Snake
-
-![snake gif](https://github.com/wahyuprtmaaa/wahyuprtmaaa/blob/output/github-snake.svg)
-
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wahyuprtmaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -55,5 +51,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wahyuprtmaaa&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rickyylaa/rickyylaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rickyylaa/rickyylaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rickyylaa/rickyylaa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
