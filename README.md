@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Halo, saya Wahyu!  <br>Seorang web developer yang fokus membangun aplikasi modern dengan Laravel & Flutter.  <br>Terus belajar dan berkembang. Ayo buat sesuatu yang keren bersama! 🚀
-
+![Wahyuprtmaaa](images/ggithub-header-image.png)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/WahyuPratama) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wahyuprtmaaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wahyu.prtmaaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wahyuprtmaaa111@gmail.com) 
