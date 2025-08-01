@@ -43,7 +43,9 @@
 ###
 ![Pac-Man](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-![GitHub Snake](https://raw.githubusercontent.com/wahyuprtmaaa/snk/output/dist/github-contribution-grid-snake.svg)
+## 🐍 My Contributions Snake
+
+![snake gif](https://github.com/wahyuprtmaaa/wahyuprtmaaa/blob/output/github-snake.svg)
 
 ###
 # 📊 GitHub Stats:
